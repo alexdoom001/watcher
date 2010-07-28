@@ -1,0 +1,4 @@
+Dynamic watcher for validity of CRC for files.
+
+Use inotify()
+
